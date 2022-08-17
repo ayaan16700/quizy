@@ -1,0 +1,21 @@
+{
+  "name": "timer-quiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "node-fetch": "^3.2.9",
+    "nodemon": "^2.0.19",
+    "request": "^2.88.2",
+    "require": "^0.4.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
